@@ -1,0 +1,4 @@
+.animate{
+	-webkit-animation-duration: 1s;
+	-webkit-animation-timing-function: ease; /* ease is the default */	
+}
